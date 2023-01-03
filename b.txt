@@ -1,0 +1,10 @@
+아무렇게나 글자를 쓰고 
+깃을 배우는 중 
+git init
+git add 
+git status
+
+working area --> staging area --> repository
+git init(한번만) - 깃이 관리하는 폴더다라고 지정하는 것
+		git add - staging area에 올려주는 명령(매번)
+			git commit
