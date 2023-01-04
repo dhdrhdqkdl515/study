@@ -1,6 +1,6 @@
 # Java, Javascript, HTML, CSS, API Projects 
 
-> Noive Developer, Programmer
+> Novice Developer, Programmer
 
 ## Practice & Project
 ---
